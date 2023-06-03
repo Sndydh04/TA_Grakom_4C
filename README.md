@@ -10,5 +10,5 @@ Gugus Adhi Gumilang - 065121079
 Ahmad Nursyehan Putra R - 
 
 
-Membuat permaianan sederhana menggunakan ursina engine
+Membuat permainan sederhana menggunakan ursina engine
 
